@@ -9,7 +9,8 @@
 
 <h2>Used Development Environments:</h2>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Webstorm](https://img.shields.io/badge/Webstorm-282A36?style=for-the-badge&logo=webstorm&logoColor=79DAFA) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282A36?style=for-the-badge&logo=Visual%20Studio&logoColor=79DAFA)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Webstorm](https://img.shields.io/badge/Webstorm-282A36?style=for-the-badge&logo=webstorm&logoColor=79DAFA) 
+<br>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282A36?style=for-the-badge&logo=Visual%20Studio&logoColor=79DAFA)</br>
 
 <img width="50%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartincsekLevente&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=false&custom_title=Most%20Used%20Languages&hide_title=true"/>
 
