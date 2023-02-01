@@ -1,14 +1,9 @@
-# Hi there, I am Levi 👋
-
-<img width="55%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api?username=AttilaSzerencses&show_icons=true&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=1E90FF&hide_border=true&custom_title=Github%20Statistics&hide_title=true"/>
-
-<img width="55%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttilaSzerencses&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Most%20Used%20Languages&hide_title=true"/>
-
-<img width="55%" align="right" src="https://streak-stats.demolab.com/?user=AttilaSzerencses&theme=dark&background=282A36&hide_border=true&fire=FF0000&ring=1E90FF&currStreakLabel=1E90FF&sideNums=F8F8F2"/>
+<h1 align="center"> Hi there, I am Levi 👋 </h1>
 
 
+<img width="50%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api?username=MartincsekLevente&show_icons=true&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=1E90FF&hide_border=false&custom_title=Github%20Statistics&hide_title=true"/>
 
-<h2>Environments<img width="5%" src="https://www.debian.org/Pics/debian-logo-1024x576.png"/></h2>
+<h2 align="center"><img width="3%" src="logo_windows.svg"> Environments <img width="3%" src="logo_windows.svg"></h2>
 
 <h3>Operation Systems</h3>
 
@@ -18,6 +13,10 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Webstorm](https://img.shields.io/badge/Webstorm-282A36?style=for-the-badge&logo=webstorm&logoColor=79DAFA) ![Pycharm](https://img.shields.io/badge/PyCharm-282A36?style=for-the-badge&logo=pycharm&logoColor=79DAFA)
 
+
+<img width="50%" align="center" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartincsekLevente&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=false&custom_title=Most%20Used%20Languages&hide_title=true"/>
+
+<img width="50%" align="right" position="absolute" src="https://streak-stats.demolab.com/?user=MartincsekLevente&theme=dark&background=282A36&hide_border=false&fire=FF0000&ring=1E90FF&currStreakLabel=1E90FF&sideNums=F8F8F2"/>
 
 <h2>Languages <img width="3%" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></h2>
 
