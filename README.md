@@ -28,12 +28,13 @@
 
 ![Spring Boot](https://img.shields.io/badge/spring_boot-282A36?style=for-the-badge&logo=spring&logoColor=79DAFA)
 ![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=Java&logoColor=79DAFA)
+![Php](https://img.shields.io/badge/Php-282A36?style=for-the-badge&logo=php&logoColor=79DAFA)
 
 <h2>Game Making Knowledge: </h2>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_engine-282A36?style=for-the-badge&logo=unrealengine&logoColor=79DAFA) 
 ![Unity](https://img.shields.io/badge/unity-282A36?style=for-the-badge&logo=unity&logoColor=79DAFA)
 
-<h2>Social Links </h2>
+<h2>Social Links: </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/martincsek-levente-a14136242/) 
