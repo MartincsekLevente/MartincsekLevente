@@ -29,11 +29,11 @@
 ![Spring Boot](https://img.shields.io/badge/spring_boot-282A36?style=for-the-badge&logo=spring&logoColor=79DAFA)
 ![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=Java&logoColor=79DAFA)
 
+<h2>Game Making Knowledge: </h2>
 
-<h2>Database <img width="4%" src="https://bmtraders.com/images/Database/Database-4.gif"/></h2>
+![Unreal Engine](https://img.shields.io/badge/Unreal_engine-282A36?style=for-the-badge&logo=unrealengine&logoColor=79DAFA) 
+![Unity](https://img.shields.io/badge/unity-282A36?style=for-the-badge&logo=unity&logoColor=79DAFA)
 
-![MySql](https://img.shields.io/badge/mysql-282A36?style=for-the-badge&logo=mysql&logoColor=79DAFA) ![PostgresSql](https://img.shields.io/badge/postgresql-282A36?style=for-the-badge&logo=postgresql&logoColor=79DAFA)
+<h2>Social Links </h2>
 
-<h2>Social Links <img width="3%" src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Free-Download.png"/></h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/attila-szerencses-b92082232/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/martincsek-levente-a14136242/) 
