@@ -1,13 +1,7 @@
-<h1 align="center"> Hi there, I am Levi 👋 </h1>
+<h1 align="center"> Hey there, I am Levi 👋 </h1>
 
-
-<img width="50%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api?username=MartincsekLevente&show_icons=true&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=1E90FF&hide_border=false&custom_title=Github%20Statistics&hide_title=true"/>
-
-<img width="50%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartincsekLevente&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=false&custom_title=Most%20Used%20Languages&hide_title=true">
-
-<h2><img src="logo_windows.svg" width="2%"> Used Operating Systems: </img></h2>
-
-![Debian Linux](https://img.shields.io/badge/Linux%20Debian-282A36?style=for-the-badge&logo=Debian&logoColor=79DAFA) ![Windows](https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=79DAFA)
+<h3>Frontend</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h2><img src="visualstudiocode.svg" width="2%"> Used Development Environments:</h2>
 
