@@ -2,7 +2,7 @@
 
 <h3>Frontend</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=angular,js,ts,html,css,nodejs)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=angular,react,redux,js,ts,html,css,nodejs)](https://skillicons.dev)<br/>
 
 <h3>Backend</h3>
 
